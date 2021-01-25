@@ -7,7 +7,10 @@
 
   <style type="text/css">
   	a {
-  		border: 1px 1px 1px solid black;
+  		border: 1px solid black;
+      padding: 5px;
+      position: relative;
+      top: 90px;
   	}
   </style>
 </head>
